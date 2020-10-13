@@ -1,0 +1,1 @@
+export {changeStatus, deleteTask} from './tasks';
